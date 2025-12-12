@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages\\\\quiz.tsx -> ../hooks/useConfetti\":{\"id\":\"pages\\\\quiz.tsx -> ../hooks/useConfetti\",\"files\":[\"static/chunks/src_hooks_useConfetti_ts.js\"]}}"
