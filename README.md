@@ -31,31 +31,4 @@
 - Custom hooks (`useSound`, `useConfetti`)
 
 
-## 📂 Folder Structure
-frontend-assessment/
-│
-├── public/
-│ ├── mascot/
-│ │ └── mascot.png
-│ └── sounds/
-│ ├── click.mp3
-│ └── next.mp3
-│
-├── src/
-│ ├── components/
-│ │ ├── Mascot.tsx
-│ │ ├── QuestionCard.tsx
-│ │ ├── ProgressSegments.tsx
-│ │ ├── OptionButton.tsx
-│ │ └── header.tsx
-│ │
-│ ├── hooks/
-│ │ ├── useSound.ts
-│ │ └── useConfetti.ts
-│ │
-│ ├── pages/
-│ ├── index.tsx
-│ ├── quiz.tsx
-│ └── result.tsx
-│
-└── README.md
+
